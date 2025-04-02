@@ -21,6 +21,7 @@ Project = {
         {"issue_id":2, "title":"b", count:100},
         {"issue_id":3, "title":"c", count:40},
       ];
-   }
+    }
+  ]
 }
 ```
